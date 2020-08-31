@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+const mongoose = require("mongoose")
 
 const SensorSchema = mongoose.Schema({
   created_at: {
